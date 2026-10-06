@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "david",
+    "apellido": "holguin",
+    "email": "david@gmail.com",
+    "carnet": "1231",
+    "notas": {},
+    "materias": []
+  },
+  {
+    "id": 2,
+    "nombre": "emilio",
+    "apellido": "pico",
+    "email": "emilio.p@gmail.com",
+    "carnet": "120",
+    "notas": {},
+    "materias": []
+  }
+]
